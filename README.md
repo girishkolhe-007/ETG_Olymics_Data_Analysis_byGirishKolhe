@@ -1,2 +1,2 @@
-# ETG_Olymics_Data_Analysis_byGirishKolhe
+# ETG_Olympics_Data_Analysis_byGirishKolhe
 Olympics Data Analysis
